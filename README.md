@@ -18,7 +18,7 @@ You can input the path of the audio (WAV) file you want to decode
 
 You can setup the project by following these steps:
 
-- Clone the repository to your system
+- Clone the repository to your system using `git clone` or downloading the zip
  
 - Open to the project folder from your terminal
 
